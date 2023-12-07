@@ -5,4 +5,6 @@
 <ul>
   <li><b>Number Guessing Game:</b> It included creating a Number Guessing Game which will prompt the user to guess a random generated number and, on each step, provide the user with the info whether the guess was low or high.
 </li>
+  <li><b>Simple Calculator:</b> It included creating a Simple Calculator that performs basic arithmetic operations such as addition, subtraction, multiplication, and division upon user's choice of two numbers and the operations to be performed.
+</li>
 </ul>
